@@ -1,3 +1,4 @@
 Line 1: Initial content
 String 2: second string
 String 3: third string
+String 4: fourth string
